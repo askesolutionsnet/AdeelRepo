@@ -10,7 +10,7 @@ namespace HRMobileApp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home Page Adeel Khan";
 
             return View();
         }

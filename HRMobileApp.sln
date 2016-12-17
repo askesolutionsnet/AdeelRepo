@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileApp", "HRMobileApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileApp.Tests", "HRMobileApp.Tests\HRMobileApp.Tests.csproj", "{A9F9A92E-BBCB-4890-B256-757261701BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppBusiness", "HRMobileAppBusiness\HRMobileAppBusiness.csproj", "{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppDataLayer", "HRMobileAppDataLayer\HRMobileAppDataLayer.csproj", "{82D4F43C-B53B-419B-8913-DA39DFC15350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppEntites", "HRMobileAppEntites\HRMobileAppEntites.csproj", "{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{A9F9A92E-BBCB-4890-B256-757261701BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F9A92E-BBCB-4890-B256-757261701BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F9A92E-BBCB-4890-B256-757261701BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D4F43C-B53B-419B-8913-DA39DFC15350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D4F43C-B53B-419B-8913-DA39DFC15350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D4F43C-B53B-419B-8913-DA39DFC15350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D4F43C-B53B-419B-8913-DA39DFC15350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
