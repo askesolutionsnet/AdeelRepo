@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileApp.Tests", "HRMobi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppBusiness", "HRMobileAppBusiness\HRMobileAppBusiness.csproj", "{4A2DD7E2-6A8A-4900-8DD5-4FA86DF304B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppData", "HRMobileAppDataLayer\HRMobileAppData.csproj", "{82D4F43C-B53B-419B-8913-DA39DFC15350}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppData", "HRMobileAppData\HRMobileAppData.csproj", "{82D4F43C-B53B-419B-8913-DA39DFC15350}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMobileAppEntites", "HRMobileAppEntites\HRMobileAppEntites.csproj", "{A451A5D2-AAA4-45A7-8AEA-3C8474E28CEB}"
 EndProject
