@@ -8,6 +8,13 @@ namespace HRMobileApp.Controllers
 {
     public class HomeController : Controller
     {
+
+        public int MyProperty { get; set; }
+
+        public HomeController()
+        {
+
+        }
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page Adeel Khan";
