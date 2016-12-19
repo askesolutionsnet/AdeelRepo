@@ -1,0 +1,9 @@
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\HRMobileAppDataLayer.dll.config
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\HRMobileAppDataLayer.dll
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\HRMobileAppDataLayer.pdb
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\EntityFramework.dll
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\EntityFramework.xml
+E:\GitHub\HRMobileApp\HRMobileAppData\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\HRMobileApp\HRMobileAppData\obj\Debug\HRMobileAppDataLayer.dll
+E:\GitHub\HRMobileApp\HRMobileAppData\obj\Debug\HRMobileAppDataLayer.pdb

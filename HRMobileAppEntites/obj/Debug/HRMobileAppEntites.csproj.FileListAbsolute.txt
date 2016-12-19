@@ -1,0 +1,5 @@
+E:\GitHub\HRMobileApp\HRMobileAppEntites\bin\Debug\HRMobileAppEntites.dll
+E:\GitHub\HRMobileApp\HRMobileAppEntites\bin\Debug\HRMobileAppEntites.pdb
+E:\GitHub\HRMobileApp\HRMobileAppEntites\obj\Debug\HRMobileAppEntites.dll
+E:\GitHub\HRMobileApp\HRMobileAppEntites\obj\Debug\HRMobileAppEntites.pdb
+E:\GitHub\HRMobileApp\HRMobileAppEntites\obj\Debug\HRMobileAppEntites.csprojResolveAssemblyReference.cache

@@ -102,6 +102,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\HRMobileAppBusiness\HRMobileAppBusiness.csproj">
+      <Project>{4a2dd7e2-6a8a-4900-8dd5-4fa86df304b4}</Project>
+      <Name>HRMobileAppBusiness</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HRMobileApp\HRMobileApp.csproj">
       <Project>{3FA3093A-23EF-48EE-8700-97293339216F}</Project>
       <Name>HRMobileApp</Name>
